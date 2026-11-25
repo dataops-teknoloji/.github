@@ -12,7 +12,7 @@ We build AI infrastructure inside organisations' own systems, and AI agents that
 
 | Product | What it does |
 | --- | --- |
-| **NorthRAG** | On-premise enterprise AI platform. Brings documents, databases and models together in one secure layer inside your own infrastructure, works with open-weight models, and returns every answer with its source. |
+| **DataOpsRAG** | On-premise enterprise AI platform. Brings documents, databases and models together in one secure layer inside your own infrastructure, works with open-weight models, and returns every answer with its source. |
 | **MizanHub** | AI agents for accounting and tax. Runs the repetitive month-end checks end to end and presents each result with its reasoning. |
 
 ## How we build
